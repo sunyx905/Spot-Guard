@@ -3,7 +3,7 @@ name: spot-guard
 description: 基于 Binance Agent OS MCP 的现货安全副驾驶。用于查询现货行情、检查 Agentic 子账户余额、给出小额现货建议，并在用户确认前阻止下单。
 metadata:
   version: 0.1.0
-  author: YOUR_GITHUB_NAME
+  author: Sun
   license: MIT
 ---
 
